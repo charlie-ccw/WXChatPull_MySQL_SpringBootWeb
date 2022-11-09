@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WXChatPull-Linux/WXChatPull-Linux.iml" filepath="$PROJECT_DIR$/WXChatPull-Linux/WXChatPull-Linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WXChatPull_MySQL_SpringBootWeb.iml" filepath="$PROJECT_DIR$/.idea/WXChatPull_MySQL_SpringBootWeb.iml" />
+    </modules>
+  </component>
+</project>
